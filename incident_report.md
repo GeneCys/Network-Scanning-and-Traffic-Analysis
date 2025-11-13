@@ -98,7 +98,7 @@ The exercise demonstrates how network scanning activity appears in packet captur
 
 - Logs: `normal_traffic.pcap`, `nmap_scan.pcap`
 - Screenshots: `nmap_scan_commands_1.png`, `nmap_scan_commands_2.png`, `wireshark_filters_1.png`, `wireshark_filters_2.png`
-- GRC File: [grc_report.md](./grc_report.md)
+- GRC File: [GRC_report.md](./GRC_report.md)
 - README: [README.md](./README.md)
 
 ---
