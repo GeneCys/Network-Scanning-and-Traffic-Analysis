@@ -68,6 +68,7 @@ This aligns with strategic cybersecurity governance objectives such as **proacti
 | `incident_report.md` | Technical incident analysis and detection evidence |
 | `README.md` | Exercise overview and procedure documentation |
 | `nmap_scan.pcap` | Captured scan traffic for evidence and review |
+| `normal_traffic.pcap` | Captured traffic for baselining, evidence and review |
 | `nmap_scan_commands_1.png` | Screenshot of Nmap commands used for reconnaissance |
 | `nmap_scan_commands_2.png` | Screenshot of Nmap commands used for reconnaissance |
 | `wireshark_filters_1.png` | Screenshot of wireshark filters used for analysis |
